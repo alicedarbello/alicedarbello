@@ -120,7 +120,7 @@ Soy apasionada en crear cosas con mis propias manos, y hoy lo hago a través del
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=alicedarbello&show_icons=true&theme=bear&include_all_commits=true&locale=es" 
+    src="https://github-readme-stats-fast.vercel.app/api?username=alicedarbello&show_icons=true&theme=radical" 
   />
 
 <img 
